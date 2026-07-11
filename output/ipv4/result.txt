@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-07-11 07:04:38,http://198.204.228.26/live/cctv9hd.m3u8
+2026-07-11 19:12:16,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
 
 📺央视频道,#genre#
+CCTV-3,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
@@ -13,6 +14,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012
+湖南卫视,http://182.37.41.46:8154/tsfile/live/0128_1.m3u8?key=txiptv
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8
@@ -22,6 +24,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+深圳卫视,http://182.37.41.46:8154/tsfile/live/0126_1.m3u8?key=txiptv
+天津卫视,http://182.37.41.46:8154/tsfile/live/0135_1.m3u8?key=txiptv
 
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
