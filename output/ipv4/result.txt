@@ -1,43 +1,30 @@
 🕘️更新时间,#genre#
-2026-11-15 18:13:34,http://49.70.189.149:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-11-16 06:12:08,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
 
 📺央视频道,#genre#
-CCTV-1,http://49.70.189.149:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794751200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-088b2aa2dcde212e8135ff46739450f1&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-9,http://218.13.139.26:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://173.208.234.146/live/cctv9.m3u8
-CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b70c63666562ba8361a7fc5c42e6c12
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3c19e649cec922581b8014eeb18e1c1e
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://45.192.97.170:8880/play/451.m3u8
-CCTV-13,http://173.208.234.146/live/cctv13.m3u8
 CCTV-17,http://218.13.139.26:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
 💰央视付费频道,#genre#
-文化精品,http://204.12.221.218:8181/3m1080p/ysjp.m3u8
 第一剧场,http://zby.lskk.top/cdnlive.php?mode=play&id=dfc5e2217c10d2abe2ed38e3c2ccde04&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-怀旧剧场,http://204.12.221.218:8181/3m1080p/hjjc.m3u8
-怀旧剧场,http://feiniu-nas.xipinju.top:8767/cctvhjjc.m3u8
 兵器科技,http://204.12.221.218:8181/3m1080p/gfjs.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 广东卫视,http://nn.7x9d.cn/91tv1.php?e=gdwshd&line=0
-浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
 浙江卫视,http://45.192.97.170:8880/play/489.m3u8
 浙江卫视,http://45.192.97.170:8880/play/542.m3u8
+浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://45.192.97.170:8880/play/523.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://45.192.97.170:8880/play/509.m3u8
 安徽卫视,http://45.192.97.170:8880/play/508.m3u8
-重庆卫视,http://45.192.97.170:8880/play/511.m3u8
-重庆卫视,http://45.192.97.170:8880/play/494.m3u8
 东方卫视,http://45.192.97.170:8880/play/513.m3u8
 东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
-广西卫视,http://204.12.221.218:8181/3m1080p/gxws.m3u8
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 江苏卫视,http://45.192.97.170:8880/play/525.m3u8
 江苏卫视,http://45.192.97.170:8880/play/487.m3u8
@@ -46,10 +33,9 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 江西卫视,http://45.192.97.170:8880/play/526.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 青海卫视,http://45.192.97.170:8880/play/531.m3u8
-山西卫视,http://112.123.243.37:50085/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://45.192.97.170:8880/play/534.m3u8
-深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 深圳卫视,http://45.192.97.170:8880/play/482.m3u8
+深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 云南卫视,http://45.192.97.170:8880/play/541.m3u8
 
 ☘️天津频道,#genre#
@@ -68,8 +54,8 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 纬来育乐,http://zby.lskk.top/cdnlive.php?mode=play&id=74cc4c3b644c367a8b56dea754e67692&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 
 🎬电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -80,6 +66,7 @@ IPTV经典电影,http://45.192.97.170:8880/play/2649.m3u8
 
 🏀体育频道,#genre#
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjty5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
